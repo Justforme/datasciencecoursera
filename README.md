@@ -1,4 +1,2 @@
-This is a Test.
-
-Jeez.
+This is for the Coursera Data Science Toolkit project.
 
